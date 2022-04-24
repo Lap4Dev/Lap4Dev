@@ -15,7 +15,6 @@ I have had a huge number of successful sales of my product and I have received m
 - 📫 You can contact me by telegram or mail.
 -     Telegram: @lap4yk
 -     mail: o.lapchul@nltu.lviv.ua
--     
 
 <!---
 Lap4Dev/Lap4Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
