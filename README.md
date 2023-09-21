@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lap4Dev
 - 📫 You can contact me by telegram or mail.
 -     Telegram: @san4o_prog
--     mail: o.lapchul@nltu.lviv.ua
+-     mail: o.lapchuk@nltu.lviv.ua
 
 <!---
 Lap4Dev/Lap4Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
