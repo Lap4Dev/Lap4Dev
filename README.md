@@ -55,6 +55,39 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
+## 🤖 Chatbots & Messaging
+
+**Frameworks (Telegram & Discord)**
+<p align="center">
+  <a href="https://docs.aiogram.dev/">
+    <img src="https://img.shields.io/badge/aiogram-v2%2Fv3-26A5E4?logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://docs.telethon.dev/">
+    <img src="https://img.shields.io/badge/Telethon-26A5E4?logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://docs.pyrogram.org/">
+    <img src="https://img.shields.io/badge/Pyrogram-26A5E4?logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://docs.disnake.dev/">
+    <img src="https://img.shields.io/badge/disnake-5865F2?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://discordpy.readthedocs.io/">
+    <img src="https://img.shields.io/badge/discord.py-5865F2?logo=discord&logoColor=white" />
+  </a>
+</p>
+
+**Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Bots-5865F2?logo=discord&logoColor=white" />
+</p>
+
+**Capabilities**
+- Inline/Reply keyboards, multi-step forms, payments, media & files
+- Webhooks (FastAPI) or long polling
+- Middleware, FSM/state machines, anti-spam/rate limits
+- Multi-account & multi-tenant routing
+- Integrations: Google Sheets, PostgreSQL/Redis, external APIs, webhooks
 ---
 
 ## 💡 What I Do
